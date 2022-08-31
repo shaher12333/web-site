@@ -1,0 +1,99 @@
+body{
+  background-image: url("file:///C:/Users/lap8/Downloads/wallpaperflare.com_wallpaper%20(1).jpg");
+  
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+h1{ 
+  color: cyan;
+  border-color: blueviolet;
+  border-radius: 0%20;
+  border-width: thick;
+  border-style: groove;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+
+  
+}
+img{
+  border-radius: 0%20;
+  border-width: thick;
+  border-style: dashed;
+  border-color: orange;
+}
+li{ 
+  color: rgb(255, 217, 0);
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+caption{
+  color: aqua;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+a{
+  color: aqua;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+td,th{
+  color: rgb(169, 63, 21);
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+form{ 
+  color: cyan;
+  border-color: blueviolet;
+  border-radius: 0%20;
+  border-width: thick;
+
+  
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+
+  
+  
+}
+div{
+  border: solid 2px aqua;
+  width: 200px;
+  margin: 20px;
+  padding: 50px;
+  border-color: orange;
+  border-style: groove;
+}
+h1{ 
+  color: cyan;
+  border-color: blueviolet;
+  border-radius: 0%20;
+  border-width: thick;
+  border-style: groove;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+h2{ 
+  color: cyan;
+  border-color: blueviolet;
+  border-radius: 0%20;
+  border-width: thick;
+  border-style: groove;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+table:hover{
+  box-shadow: 3px 3px 50px #4c00ff;
+}
+
+
+th,td{
+  color: rgb(248, 248, 248);
+}
+table
